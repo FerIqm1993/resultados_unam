@@ -2,3 +2,4 @@ pandas
 playwright
 streamlit
 plotly
+xlsxwriter

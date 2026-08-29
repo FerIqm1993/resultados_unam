@@ -1,2 +1,5 @@
-2026/07/17-14:16:03.005 45f0 Creating DB C:\Users\LuisFernandoMartínez\Documents\IMC\data_projects\perfil_dgae_chrome_normal\Default\WebStorage\2\FileSystem\t\Paths since it was missing.
-2026/07/17-14:16:03.016 45f0 Reusing MANIFEST C:\Users\LuisFernandoMartínez\Documents\IMC\data_projects\perfil_dgae_chrome_normal\Default\WebStorage\2\FileSystem\t\Paths/MANIFEST-000001
+2026/08/29-00:35:08.317 4660 Log #3: 8 ops saved to Table #4 OK
+2026/08/29-00:35:08.319 4660 Archiving C:\cursos\resultados_unam\perfil_dgae_chrome_normal\Default\WebStorage\2\FileSystem\t\Paths/000003.log: OK
+2026/08/29-00:35:08.319 4660 Table #4: 8 entries OK
+2026/08/29-00:35:08.322 4660 Archiving C:\cursos\resultados_unam\perfil_dgae_chrome_normal\Default\WebStorage\2\FileSystem\t\Paths/MANIFEST-000001: OK
+2026/08/29-00:35:08.331 4660 **** Repaired leveldb C:\cursos\resultados_unam\perfil_dgae_chrome_normal\Default\WebStorage\2\FileSystem\t\Paths; recovered 1 files; 254 bytes. Some data may have been lost. ****

@@ -128,10 +128,10 @@ COLUMNAS_RESULTADOS = [
 
 
 EQUIVALENCIAS_ESTATUS = {
-    "S": "Seleccionado",
-    "N": "No presentado",
-    "C": "Cancelado",
-    "": "No seleccionado",
+    "S": "Seleccionada/o",
+    "N": "No presentada/o",
+    "C": "Cancelada/o",
+    "": "No seleccionada/o",
 }
 
 
